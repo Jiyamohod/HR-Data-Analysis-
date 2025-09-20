@@ -1,7 +1,7 @@
 # HR-Data-Analysis-SOL
 🏢 HR Data Analysis – SQL Project
 
-📌 Project Overview
+#📌 Project Overview
 This project is based on an HR dataset stored in a single table (employees) for analyzing employee-related information. It provides insights into workforce demographics, salary structures, performance, attrition, and recruitment patterns.
 
 The dataset and queries are designed to:
@@ -12,7 +12,7 @@ Calculate attrition rates and employment status.
 Identify workforce distribution across departments, states, and managers.
 Practice SQL concepts such as grouping, filtering, case statements, and aggregate functions.
 
-📂 Dataset (CSV Table)
+#📂 Dataset (CSV Table)
 The repository includes employees.csv which contains the following key attributes:
 
 Employee Information: Employee ID, Name, DOB, Gender, Marital Status, Age.
@@ -20,7 +20,7 @@ Job Details: Department, Position, Manager Name, Date of Hire, Date of Terminati
 Compensation: Salary, Performance Score, Last Performance Review Date.
 Other Attributes: Recruitment Source, Absences, Termination Reason, State.
 
-⚙️ Features Demonstrated
+#⚙️ Features Demonstrated
 Employee Metrics:
 
 Total employees, active vs terminated employees.
@@ -50,7 +50,7 @@ Recruitment Insights:
 
 Employee count by recruitment source.
 
-🚀 How to Use
+#🚀 How to Use
 Clone the repository:
 git clone https://github.com/yourusername/hrdata.git
 cd hrdata
@@ -58,19 +58,19 @@ Import the employees.csv dataset into your database (MySQL, PostgreSQL, or SQLit
 Create a database named hrdata and load the dataset as a table named employees.
 Run SQL queries to analyze HR data and generate insights.
 
-🎯 Example Use Cases
+#🎯 Example Use Cases
 Calculate attrition rates and track employee turnover.
 Find average salary and compare across departments.
 Identify age and salary ranges of employees.
 Determine which departments have the most absences.
 Analyze recruitment sources and their effectiveness.
 Measure performance scores vs absences trends.
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 SQL (MySQL/PostgreSQL/SQLite compatible)
 CSV file for structured data storage
 GitHub for project versioning
 
-📌 Future Enhancements
+#📌 Future Enhancements
 Add visual dashboards for HR analytics (using Tableau, Power BI, or Python libraries).
 Build predictive models for attrition and performance.
 Expand dataset with training, promotions, and benefits information.
