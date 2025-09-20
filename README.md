@@ -1,5 +1,6 @@
 # HR-Data-Analysis-SOL
 🏢 HR Data Analysis – SQL Project
+
 📌 Project Overview
 This project is based on an HR dataset stored in a single table (employees) for analyzing employee-related information. It provides insights into workforce demographics, salary structures, performance, attrition, and recruitment patterns.
 
@@ -10,6 +11,7 @@ Analyze salaries, absences, and performance.
 Calculate attrition rates and employment status.
 Identify workforce distribution across departments, states, and managers.
 Practice SQL concepts such as grouping, filtering, case statements, and aggregate functions.
+
 📂 Dataset (CSV Table)
 The repository includes employees.csv which contains the following key attributes:
 
@@ -17,6 +19,7 @@ Employee Information: Employee ID, Name, DOB, Gender, Marital Status, Age.
 Job Details: Department, Position, Manager Name, Date of Hire, Date of Termination, Employee Status.
 Compensation: Salary, Performance Score, Last Performance Review Date.
 Other Attributes: Recruitment Source, Absences, Termination Reason, State.
+
 ⚙️ Features Demonstrated
 Employee Metrics:
 
